@@ -19,7 +19,7 @@ Install npm package globally with the following command:
 
 ``` shell
 
-$   npm install -g laravel-echo-server
+$   npm install -g git+https://github.com/ASV93/laravel-echo-server.git
 
 ```
 
